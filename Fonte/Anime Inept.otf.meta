@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ec8a50e89605bf24f8db29a0127e951a
+timeCreated: 1483819139
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Anime Inept
+  fontNames:
+  - Anime Inept
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
